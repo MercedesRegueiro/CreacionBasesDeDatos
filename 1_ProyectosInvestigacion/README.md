@@ -11,3 +11,4 @@ Lo primero es crear las tablas. Para ello se utiliza lo siguiente: <b>CREATE TAB
 <img src="../imagenes/3_CrearTablaBD.PNG"/>
 Dato: Para poner la PRIMARY KEY se escribe lo siguiente dentro del CREATE TABLE (Ver imagen anterior): <b>CONSTRAINT <i>nuevoNombre</i> PRIMARY KEY (<i>nombreCampo</i>)</b><br/>
 Una vez creada la tabla podemos comprobar que se ha creado correctamente y ver sus propiedades. Para ello usamos: <b>DESCRIBE <i>nombreTabla</i>;</b>
+<img src="../imagenes/4_ComprobarTablaBD.PNG"/>
