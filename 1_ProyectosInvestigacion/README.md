@@ -1,4 +1,4 @@
-ons<h1>Proyectos de Investigación</h1>
+<h1>Proyectos de Investigación</h1>
 El enunciado del ejercicio podrás encontrarlo en el siguiente enlace de davidgchaves: <a href="https://github.com/davidgchaves/first-steps-with-git-and-github-wirtz-asir1-and-dam1/tree/master/exercicios-ddl/1-proxectos-de-investigacion">Enunciado Proyecto de Investigacion</a><br/>
 <h2>Crear Base de Datos</h2>
 Para crear la base de datos debemos escribir lo siguiente: <b>CREATE DATABASE <i>nombreBD</i>;</b>
@@ -12,3 +12,4 @@ Lo primero es crear las tablas. Para ello se utiliza lo siguiente: <b>CREATE TAB
 Dato: Para poner la PRIMARY KEY se escribe lo siguiente dentro del CREATE TABLE (Ver imagen anterior): <b>CONSTRAINT <i>nuevoNombre</i> PRIMARY KEY (<i>nombreCampo</i>)</b><br/>
 Una vez creada la tabla podemos comprobar que se ha creado correctamente y ver sus propiedades. Para ello usamos: <b>DESCRIBE <i>nombreTabla</i>;</b>
 <img src="../imagenes/4_ComprobarTablaBD.PNG"/>
+<h3>Creación y Comprobacion de las Tablas del Ejercicio</h3>
