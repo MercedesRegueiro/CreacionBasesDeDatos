@@ -6,4 +6,4 @@ Para crear la base de datos debemos escribir lo siguiente: <b>CREATE DATABASE <i
 Una vez hecho esto deberemos indicar que queremos hacer operaciones con esa base de datos por lo que deberemos usar lo siguiente: <b>USE <i>nombreBD</i></b>
 <img src="../imagenes/2_UsarBD.PNG"/>
 <h2>Crear Tablas</h2>
-A mi me parece más cómodo primero crear las tablas con las PRIMARY KEY y una vez creadas las tablas poner todas las claves foraneas.
+<u>NOTA: A mi me parece más cómodo primero crear las tablas con las PRIMARY KEY y una vez creadas las tablas poner todas las claves foraneas.</u>
