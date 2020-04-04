@@ -3,5 +3,6 @@ El enunciado del ejercicio podrás encontrarlo en el siguiente enlace de davidgc
 <h2>Crear Base de Datos</h2>
 Para crear la base de datos debemos escribir lo siguiente: <b>CREATE DATABASE <i>nombreBD</i></b>
 <img src="../imagenes/1_CrearBD.PNG"/>
-
+Una vez hecho esto deberemos indicar que queremos hacer operaciones con esa base de datos por lo que deberemos usar lo siguiente: <b>USE <i>nombreBD</i></b>
+<img src="../imagenes/2_UsarBD.PNG"/>
 <h2>Crear Tablas</h2>
