@@ -13,3 +13,5 @@ Dato: Para poner la PRIMARY KEY se escribe lo siguiente dentro del CREATE TABLE 
 Una vez creada la tabla podemos comprobar que se ha creado correctamente y ver sus propiedades. Para ello usamos: <b>DESCRIBE <i>nombreTabla</i>;</b>
 <img src="../imagenes/4_ComprobarTablaBD.PNG"/>
 <h3>Creación y Comprobacion de las Tablas del Ejercicio</h3>
+Antes de hacer las claves foráneas, hay que crear las tablas que faltan. <br/>
+En el siguiente enlace podreis ver la creacion de las tablas restantes del ejercicio: <a href="https://github.com/MercedesRegueiro/CreacionBasesDeDatos/tree/master/1_ProyectosInvestigacion/TablasEjercicio1">Crear Tablas Restantes</a>
