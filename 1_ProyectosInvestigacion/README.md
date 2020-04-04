@@ -9,4 +9,5 @@ Una vez hecho esto deberemos indicar que queremos hacer operaciones con esa base
 <b>NOTA:</b> A mi me parece más cómodo primero crear las tablas con las PRIMARY KEY y una vez creadas las tablas poner todas las claves foraneas.<br/<
 Lo primero es crear las tablas. Para ello se utiliza lo siguiente: <b>CREATE TABLE <i>nombreTabla</i> (campo1 tipo, campo2 tipo, ...);</b> 
 <img src="../imagenes/3_CrearTablaBD.PNG"/>
-Dato: Para poner la PRIMARY KEY se escribe lo siguiente: CONSTRAINT <i>nuevoNombre</i> PRIMARY KEY (<i>nombreCampo</i>);
+Dato: Para poner la PRIMARY KEY se escribe lo siguiente: CONSTRAINT <i>nuevoNombre</i> PRIMARY KEY (<i>nombreCampo</i>);<br/>
+Una vez creada la tabla podemos comprobar que se ha creado correctamente y ver sus propiedades. Para ello usamos: <b>DESCRIBE <i>nombreTabla</i>;</b>
