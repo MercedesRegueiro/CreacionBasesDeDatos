@@ -17,4 +17,4 @@ Las tablas restantes son las siguientes:
   <li>Financia</li>
   <img src="../../imagenes/TablaFina.PNG"/>
 </ul>
-<p>Pulse aquí para volver al documento Principal: <a href="https://github.com/MercedesRegueiro/CreacionBasesDeDatos/tree/master/1_ProyectosInvestigacion">Investigacion</a>
+<p>Pulse aquí para volver al documento Principal: <a href="https://github.com/MercedesRegueiro/CreacionBasesDeDatos/tree/master/1_ProyectosInvestigacion">Investigacion</a></p>
