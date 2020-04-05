@@ -26,4 +26,4 @@ Para poner las claves foráneas debemos escribir lo siguiente:<b>ALTER TABLE <i>
 
 <h3>Claves Foraneas Del Ejercicio</h3>
 Antes de empezar a poner los datos en la tabla se debe poner todas las claves foráneas de la base de datos y deste modo no tendremos problemas para ponerlas después.<br/>
-En el siguiente enlace podreis ver las claves foráneas de las tablas restantes:<a href="">Poner Claves Foráneas Restantes</a>
+En el siguiente enlace podreis ver las claves foráneas de las tablas restantes:<a href="https://github.com/MercedesRegueiro/CreacionBasesDeDatos/tree/master/1_ProyectosInvestigacion/ClavesForaneasEjercicio1">Poner Claves Foráneas Restantes</a>
