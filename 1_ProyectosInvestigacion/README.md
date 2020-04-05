@@ -22,3 +22,4 @@ En el siguiente enlace podreis ver la creacion de las tablas restantes del ejerc
 
 <h2>Poner Claves Foráneas</h2>
 Para poner las claves foráneas debemos escribir lo siguiente:<b>ALTER TABLE <i>nombreTabla</i> ADD CONSTRAINT <i>nuevoNombre</i> FOREIGN KEY (<i>nombreCampo</i>) REFERENCES <i>nombreTabla2</i>(<i>nombreCampo2</i>) ON DELETE <i>Tipo</i> ON UPDATE <i>Tipo</i>;</b><br/>
+<img src="../imagenes/"/>
