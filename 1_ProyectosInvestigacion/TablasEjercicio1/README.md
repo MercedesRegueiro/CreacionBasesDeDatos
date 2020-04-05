@@ -17,3 +17,4 @@ Las tablas restantes son las siguientes:
   <li>Financia</li>
   <img src="../../imagenes/TablaFina.PNG"/>
 </ul>
+
