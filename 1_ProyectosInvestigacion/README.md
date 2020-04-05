@@ -23,3 +23,7 @@ En el siguiente enlace podreis ver la creacion de las tablas restantes del ejerc
 <h2>Poner Claves Foráneas</h2>
 Para poner las claves foráneas debemos escribir lo siguiente:<b>ALTER TABLE <i>nombreTabla</i> ADD CONSTRAINT <i>nuevoNombre</i> FOREIGN KEY (<i>nombreCampo</i>) REFERENCES <i>nombreTabla2</i>(<i>nombreCampo2</i>) ON DELETE <i>Tipo</i> ON UPDATE <i>Tipo</i>;</b><br/>
 <img src="../imagenes/ForaneasUbicacion.PNG"/>
+
+<h3>Claves Foraneas Del Ejercicio</h3>
+Antes de empezar a poner los datos en la tabla se debe poner todas las claves foráneas de la base de datos y deste modo no tendremos problemas para ponerlas después.<br/>
+En el siguiente enlace podreis ver las claves foráneas de las tablas restantes:<a href="">Poner Claves Foráneas Restantes</a>
