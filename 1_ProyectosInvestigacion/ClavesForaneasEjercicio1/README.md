@@ -13,3 +13,4 @@ Las tablas claves foráneas son las siguientes:
   <li>Financia</li>
   <img src="../../imagenes/ForaneasFinancia.PNG"/>
 </ul>
+<p>Pulse aquí para volver al documento Principal: <a href="https://github.com/MercedesRegueiro/CreacionBasesDeDatos/tree/master/1_ProyectosInvestigacion">Investigacion</a></p>
