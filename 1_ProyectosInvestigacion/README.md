@@ -26,4 +26,30 @@ Para poner las claves foráneas debemos escribir lo siguiente:<b>ALTER TABLE <i>
 
 <h3>Claves Foraneas Del Ejercicio</h3>
 Antes de empezar a poner los datos en la tabla se debe poner todas las claves foráneas de la base de datos y deste modo no tendremos problemas para ponerlas después.<br/>
-En el siguiente enlace podreis ver las claves foráneas de las tablas restantes:<a href="https://github.com/MercedesRegueiro/CreacionBasesDeDatos/tree/master/1_ProyectosInvestigacion/ClavesForaneasEjercicio1">Poner Claves Foráneas Restantes</a>
+En el siguiente enlace podreis ver las claves foráneas de las tablas restantes:<a href="https://github.com/MercedesRegueiro/CreacionBasesDeDatos/tree/master/1_ProyectosInvestigacion/ClavesForaneasEjercicio1">Poner Claves Foráneas Restantes</a><br/>
+
+
+<h2>Resultado Final</h2>
+Una vez hecho todo esto, vemos la tabla usando el siguiente comando: <b>DESCRIBE <i>nombreTabla</i></b><br/>
+Podemos observar que marca cuales son claves primarias y claves foráneas, si un campo es tanto una clave foránea como una clave primaria solo marcará la calve primaria. A continuación veremos el resultado de todas las tablas.<br/>
+<b>TABLAS:</b><br/>
+<ul>
+  <li>Sede</li>
+  <img src="../imagenes/Sede.PNG"/>
+  <li>Ubicacion</li>
+  <img src="../imagenes/Ubicacion.PNG"/>
+  <li>Departamento</li>
+  <img src="../imagenes/Departamento.PNG"/>
+  <li>Grupo</li>
+  <img src="../imagenes/Grupo.PNG"/>
+  <li>Profesor</li>
+  <img src="../imagenes/Profesor.PNG"/>
+  <li>Participa</li>
+  <img src="../imagenes/Participa.PNG"/>
+  <li>Proxecto</li>
+  <img src="../imagenes/Proxecto.PNG"/>
+  <li>Programa</li>
+  <img src="../imagenes/Programa.PNG"/>
+  <li>Financia</li>
+  <img src="../imagenes/Financia.PNG"/>
+</ul>
