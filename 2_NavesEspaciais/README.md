@@ -18,3 +18,5 @@ El enunciado del ejercicio podrás encontrarlo en el siguiente enlace de davidgc
 <img src="../imagenes2/12_FKTripulacion2BD.PNG"/>
 <img src="../imagenes2/13_FKVisitaBD.PNG"/>
 <img src="../imagenes2/14_FKHabitaBD.PNG"/>
+<h2>Tablas</h2>
+<img src="../imagenes2/.PNG"/>
