@@ -5,3 +5,6 @@ El enunciado del ejercicio podrás encontrarlo en el siguiente enlace de davidgc
 <h2>Creacion de las tablas</h2>
 <img src="../imagenes2/2_CrearServizoBD.PNG"/>
 <img src="../imagenes2/3_CrearDependenciaBD.PNG"/>
+<img src="../imagenes2/4_CrearCamaraBD.PNG"/>
+<img src="../imagenes2/5_CrearTripulacionBD.PNG"/>
+<img src="../imagenes2/6_CrearPlanetaBD.PNG"/>
