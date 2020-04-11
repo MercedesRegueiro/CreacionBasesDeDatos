@@ -19,4 +19,18 @@ El enunciado del ejercicio podrás encontrarlo en el siguiente enlace de davidgc
 <img src="../imagenes2/13_FKVisitaBD.PNG"/>
 <img src="../imagenes2/14_FKHabitaBD.PNG"/>
 <h2>Tablas</h2>
-<img src="../imagenes2/.PNG"/>
+<ul>
+  <li>Servizo</li>
+  <li>Dependencia</li>
+  <img src="../imagenes2/15_Servizo_Dependencia_BD.PNG"/>
+  <li>Camara</li>
+  <li>Tripulacion</li>
+  <img src="../imagenes2/16_Camara_Tripulacion_BD.PNG"/>
+  <li>Planeta</li>
+  <li>Visita</li>
+  <img src="../imagenes2/17_Planeta_Visita_BD.PNG"/>
+  <li>Habita</li>
+  <li>Raza</li>
+  <img src="../imagenes2/18_Habita_Raza_BD.PNG"/>
+</ul>
+
