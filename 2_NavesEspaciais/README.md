@@ -4,4 +4,4 @@ El enunciado del ejercicio podrás encontrarlo en el siguiente enlace de davidgc
 <img src="../imagenes2/1_CrearBD.PNG"/>
 <h2>Creacion de las tablas</h2>
 <img src="../imagenes2/2_CrearServizoBD.PNG"/>
-
+<img src="../imagenes2/3_CrearDependenciaBD.PNG"/>
