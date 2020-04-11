@@ -15,3 +15,6 @@ El enunciado del ejercicio podrás encontrarlo en el siguiente enlace de davidgc
 <img src="../imagenes2/10_FKDependenciaBD.PNG"/>
 <img src="../imagenes2/11_FKCamaraBD.PNG"/>
 <img src="../imagenes2/12_FKTripulacion1BD.PNG"/>
+<img src="../imagenes2/12_FKTripulacion2BD.PNG"/>
+<img src="../imagenes2/13_FKVisitaBD.PNG"/>
+<img src="../imagenes2/14_FKHabitaBD.PNG"/>
