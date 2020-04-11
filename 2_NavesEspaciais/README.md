@@ -11,3 +11,7 @@ El enunciado del ejercicio podrás encontrarlo en el siguiente enlace de davidgc
 <img src="../imagenes2/7_CrearVisitaBD.PNG"/>
 <img src="../imagenes2/8_CrearHabitaBD.PNG"/>
 <img src="../imagenes2/9_CrearRazaBD.PNG"/>
+<h2>Claves Foráneas</h2>
+<img src="../imagenes2/10_FKDependenciaBD.PNG"/>
+<img src="../imagenes2/11_FKCamaraBD.PNG"/>
+<img src="../imagenes2/12_FKTripulacion1BD.PNG"/>
