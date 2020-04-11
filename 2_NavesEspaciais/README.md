@@ -8,3 +8,6 @@ El enunciado del ejercicio podrás encontrarlo en el siguiente enlace de davidgc
 <img src="../imagenes2/4_CrearCamaraBD.PNG"/>
 <img src="../imagenes2/5_CrearTripulacionBD.PNG"/>
 <img src="../imagenes2/6_CrearPlanetaBD.PNG"/>
+<img src="../imagenes2/7_CrearVisitaBD.PNG"/>
+<img src="../imagenes2/8_CrearHabitaBD.PNG"/>
+<img src="../imagenes2/9_CrearRazaBD.PNG"/>
