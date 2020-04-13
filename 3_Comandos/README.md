@@ -6,4 +6,4 @@ Para ver la informacion que contiene cada tabla se usa el comando <i>show table 
 Para ver la informacion que hay en una tabla especifica se usa el comando <i>show table status 'nombre_tabla';</i>
 <img src="../imagenes3/TablaInforEspec.PNG"/>
 Para saber que campos y de que tipo son los que continene una tabla se usa el comando <i>DESCRIBE 'nombre_tabla';</i>
-<img src=""/>
+<img src="../imagenes/Sede.PNG"/>
